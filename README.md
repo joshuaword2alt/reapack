@@ -35,6 +35,9 @@ them separately):
 - [cursor-4u](https://www.cursors-4u.com/)
 - [designer-cursors](http://www.rw-designer.com/)
 - [image-line](https://www.image-line.com/)
+- [steinberg](https://www.steinberg.net/)
+- [splice](https://splice.com/)
+- [lalal.ai](https://www.lalal.ai/)
 
 #### macOS
 
